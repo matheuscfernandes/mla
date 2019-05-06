@@ -1,0 +1,21 @@
+Channel Assignments
+
+0a	Curvature 1"
+1a	Curvature 3"
+2a	Curvature 5"
+3a	Force 2
+4a	Force 4
+5a	Force 6
+6a	Force 8
+7a	Force 10
+
+0b	Curvature 2"
+1b	Curvature 4"
+2b	Pressure
+3b	Force 1
+4b	Force 3
+5b	Force 5
+6b	Force 7
+7b	Force 9
+
+Note: Force sensor numbers are assigned according to their distance from the clamped end of the actuator
